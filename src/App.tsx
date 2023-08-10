@@ -1,5 +1,5 @@
 import "./App.css";
-import TestApp from "./chapters/Passing reactive values between Hooks/Using custom Hook/TestApp";
+import TestApp from "./chapters/Thinking in React/TestApp.tsx";
 
 function App() {
   return (
