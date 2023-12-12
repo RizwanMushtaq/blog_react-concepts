@@ -6,7 +6,7 @@ body {
   box-sizing: border-box;
 
   /*font-family: "Roboto Mono", "Arial Rounded MT Bold", Arial;*/
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: "Roboto Mono", "Helvetica Neue", Arial, sans-serif;
 }
 
 #root {
